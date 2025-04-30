@@ -1,0 +1,169 @@
+﻿     <!--<< Breadcrumb Section Start >>-->
+<style>
+    .input-group {
+        box-shadow: 0 2px 5px#0e0d0d;
+    }
+
+    .btn-primary {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    #btnSubmit {
+        background-color: #d6111eee;
+        color: white;
+    }
+
+        #btnSubmit:hover {
+            background-color: #d6111e;
+            color: white;
+        }
+
+    .form-control:focus {
+        border-color: #d6111e;
+        box-shadow: none;
+    }
+
+
+    .btn:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    .pcard {
+        border: 2px solid#d6111e;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+        .pcard:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+
+    .pheader {
+        background-color: #d6111e;
+        color: white;
+        padding: 20px;
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .pcontent {
+        padding: 20px;
+        text-align: center;
+        background-color: #f8f9fa;
+    }
+
+    .pbtn {
+        margin-top: 15px;
+        background-color: #d6111e;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1em;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }
+</style>
+<div class="breadcrumb-wrapper section-padding bg-cover" style="background-image: url('/assets/img/brand/breadcrumb (1).jpg');">
+    <div class="container">
+        <div class="page-heading">
+            <h1 class="wow fadeInUp" data-wow-delay=".3s">Track your plan</h1>
+            <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
+                <li>
+                    <a href="@Url.Action("Index","website")">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <i class="fal fa-minus"></i>
+                </li>
+                <li>
+                  Track your Plan Connection
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2 class="heading">Track Your CONNECTION PLAN</h2>
+            <div class="underline"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <form>
+                <div class="input-group mb-3">
+                    <input type="text" name="txtsearch" class="form-control" placeholder="Search by Order Id or User Name..." aria-label="Search" aria-describedby="btnSubmit">
+                    <div class="input-group-append">
+                        <button class="btn" type="submit" id="btnSubmit">Search</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@if (TempData["error"] != null)
+{
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <h4><b>@TempData["error"]</b></h4>
+            </div>
+        </div>
+    </div>
+
+}
+
+<div class="container" >
+    <div class="row">
+        @foreach (var plan_data in Model.plansubdetails)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="pcard">
+                    <div class="pheader">@plan_data.plan_name</div>
+                    <div class="pcontent">
+                        <p><strong>Order Id :</strong> @plan_data.order_id</p>
+                        <p><strong>User Name :</strong> @plan_data.user_name</p>
+                        <p><strong>User Email :</strong> @plan_data.user_email</p>
+                        <p><strong>Connection status :</strong> Connection status : @plan_data.status_updates</p>
+                        <p><strong>Payment :</strong>  @plan_data.payment </p>
+                        <p><strong>Bill Update :</strong> @plan_data.GenerateBillstatus_update </p>
+                        <p><strong>Task date :</strong> @plan_data.date </p>
+                        <p><strong>Contact For update connection :</strong> @plan_data.contact </p>
+                        <button><a href="@Url.Action("index", "website")" class="theme-btn"><span>Back to Home</span></a></button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

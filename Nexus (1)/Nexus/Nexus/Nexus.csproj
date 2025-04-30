@@ -1,0 +1,121 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\product_img\**" />
+    <Content Remove="wwwroot\product_img\**" />
+    <EmbeddedResource Remove="wwwroot\product_img\**" />
+    <None Remove="wwwroot\product_img\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\productImages\" />
+    <Folder Include="wwwroot\productimg\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\adminpanel\css\demo.css.map" />
+    <None Include="wwwroot\adminpanel\css\kaiadmin.css.map" />
+    <None Include="wwwroot\adminpanel\css\plugins.css.map" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-brands-400.svg" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-brands-400.woff2" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-regular-400.svg" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-regular-400.woff2" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-solid-900.svg" />
+    <None Include="wwwroot\adminpanel\fonts\fontawesome\fa-solid-900.woff2" />
+    <None Include="wwwroot\adminpanel\fonts\simple-line-icons\Simple-Line-Icons.svg" />
+    <None Include="wwwroot\adminpanel\fonts\simple-line-icons\Simple-Line-Icons.woff2" />
+    <None Include="wwwroot\adminpanel\fonts\summernote\summernote.woff2" />
+    <None Include="wwwroot\adminpanel\img\examples\logo.svg" />
+    <None Include="wwwroot\adminpanel\img\examples\logo1.svg" />
+    <None Include="wwwroot\adminpanel\img\examples\logo2.svg" />
+    <None Include="wwwroot\adminpanel\img\examples\logoinvoice.svg" />
+    <None Include="wwwroot\adminpanel\img\kaiadmin\icon.svg" />
+    <None Include="wwwroot\adminpanel\img\kaiadmin\logo_dark.svg" />
+    <None Include="wwwroot\adminpanel\img\kaiadmin\logo_light.svg" />
+    <None Include="wwwroot\adminpanel\img\logoproduct.svg" />
+    <None Include="wwwroot\adminpanel\img\logoproduct2.svg" />
+    <None Include="wwwroot\adminpanel\img\logoproduct3.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_blank_canvas_3rbb.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_creative_team_r90h.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_empty_xct9.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_Hello_qnas.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_not_found_60pq.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_no_data_qbuo.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_page_not_found_su7k.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_sign_in_e6hj.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_tabs_jf82.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_Taken_if77.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_update_uxn2.svg" />
+    <None Include="wwwroot\adminpanel\img\undraw\undraw_upgrade_06a0.svg" />
+    <None Include="wwwroot\adminpanel\img\visa.svg" />
+    <None Include="wwwroot\adminpanel\js\core\bootstrap.min.js" />
+    <None Include="wwwroot\adminpanel\js\core\jquery-3.7.1.min.js" />
+    <None Include="wwwroot\adminpanel\js\core\popper.min.js" />
+    <None Include="wwwroot\adminpanel\js\demo.js" />
+    <None Include="wwwroot\adminpanel\js\kaiadmin.js" />
+    <None Include="wwwroot\adminpanel\js\kaiadmin.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\bootstrap-notify\bootstrap-notify.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\bootstrap-tagsinput\bootstrap-tagsinput.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\bootstrap-toggle\bootstrap-toggle.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\chart-circle\circles.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\chart.js\chart.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\datatables\datatables.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\datepicker\bootstrap-datetimepicker.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\dropzone\dropzone.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\fullcalendar\fullcalendar.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\gmaps\gmaps.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jquery-scrollbar\jquery.scrollbar.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jquery.magnific-popup\jquery.magnific-popup.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jquery.sparkline\jquery.sparkline.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jquery.validate\jquery.validate.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jsvectormap\jsvectormap.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\jsvectormap\world.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\list.js\list.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\moment\moment.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\owl-carousel\owl.carousel.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\select2\select2.full.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\sortable\sortable.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\sticky-sidebar\sticky-sidebar.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\summernote\summernote-lite.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\sweetalert\sweetalert.min.js" />
+    <None Include="wwwroot\adminpanel\js\plugin\webfont\webfont.min.js" />
+    <None Include="wwwroot\adminpanel\js\setting-demo.js" />
+    <None Include="wwwroot\adminpanel\js\setting-demo2.js" />
+    <None Include="wwwroot\waitedpages\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\waitedpages\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\waitedpages\get-ready-master\.gitattributes" />
+    <None Include="wwwroot\waitedpages\get-ready-master\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\waitedpages\get-ready-master\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\bootstrap.min.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\countdown.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\custom.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\init.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\jquery.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\smoothscroll.js" />
+    <None Include="wwwroot\waitedpages\get-ready-master\js\vegas.min.js" />
+    <None Include="wwwroot\waitedpages\js\bootstrap.min.js" />
+    <None Include="wwwroot\waitedpages\js\countdown.js" />
+    <None Include="wwwroot\waitedpages\js\custom.js" />
+    <None Include="wwwroot\waitedpages\js\init.js" />
+    <None Include="wwwroot\waitedpages\js\jquery.js" />
+    <None Include="wwwroot\waitedpages\js\smoothscroll.js" />
+    <None Include="wwwroot\waitedpages\js\vegas.min.js" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,81 @@
+﻿@model Nexus.Models.mainmodel
+
+@{
+    Layout = "../shared/Dashboard_layout.cshtml";
+}
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["msg"]</h3>
+    </div>
+}
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">
+                            Add Connection Plan
+                        </h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Name</label>
+                        <input name="name" type="text" class="form-control" id="name" placeholder="Enter name" required>
+                    </div>
+                    
+                
+                
+                    <div class="form-group col-md-6">
+                        <label for="department">Type</label>
+                        <select name="Type" class="form-control" id="department" required>
+                            <option hidden>Select connection type</option>
+                            <option value="Dial-Up">Dial-Up</option>
+                            <option value="Broadband">Broadband</option>
+                            <option value="Landline">Landline</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="jobTitle">Charges</label>
+                <input type="text" name="charges" class="form-control" id="jobTitle" placeholder="Enter charges" required>
+            </div>
+                </div>
+
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="jobTitle">Description</label>
+                        <input type="text" name="Description" class="form-control" id="jobTitle" placeholder="Enter description" required>
+                        </div>
+               
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

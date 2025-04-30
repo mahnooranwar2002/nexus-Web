@@ -1,0 +1,66 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/Dashboard_layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">Update  Retail Store</h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <input type="hidden" value="@Model.retail_stores.Id" name="Id" required /> <br /><br />
+                        <label for="name">Name</label>
+                        <input name="Name" type="text" class="form-control" id="email" value="@Model.retail_stores.Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">City</label>
+                        <input name="City" type="text" class="form-control" id="email" value="@Model.retail_stores.City" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">Area</label>
+                        <input name="Area" type="text" class="form-control" id="password" value="@Model.retail_stores.Area" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">Contact</label>
+                        <input name="Contact" type="text" class="form-control" id="password"  value=" @Model.retail_stores.Contact" required>
+                    </div>
+
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Update</button>
+                </div>
+                   
+            </form>
+        </div>
+    </div>
+</div>
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>

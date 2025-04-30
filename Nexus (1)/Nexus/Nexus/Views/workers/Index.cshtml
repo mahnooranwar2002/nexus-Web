@@ -1,0 +1,29 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/workerDashboard_layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row d-flex justify-content-center">
+       
+        <div class="col-md-6 mb-6">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-link-unlink-m card-icon"></i>
+                    <h5 class="card-title">Total Scheme Subcribed</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["schmessub_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 mb-6">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-router-line card-icon"></i>
+                    <h5 class="card-title">Total Connection Subcribed</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["plansub_count"]</p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>

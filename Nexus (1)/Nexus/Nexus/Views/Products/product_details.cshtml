@@ -1,0 +1,93 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/Dashboard_layout.cshtml";
+}<style>
+     .heading {
+         color: black;
+         font-size: 3rem;
+         font-weight: bold;
+         text-transform: uppercase;
+         /* text-shadow: 2px 2px 4px#d6111e;  */
+         text-align: center;
+         margin-top: 30px;
+         margin-bottom: 10px;
+     }
+
+     .underline {
+         height: 4px;
+         background-color: #d6111e;
+         width: 60%;
+         margin: 0 auto;
+     }</style>
+<div class="container" style="height:85vh;">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <form class="form-inline" autocomplete="off">
+                <div class="input-group">
+                    <input type="text" name="txtsearch" class="form-control rounded-pill search-input" placeholder="Search Product by Name..." aria-label="Search" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-danger rounded-pill search-btn" type="submit" id="button-addon2">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="content">
+                <div class="container">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <h2 class="heading">Products  Record  list</h2>
+                                <div class="underline"></div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="table-responsive">
+                        <table id="employeeTable" class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Price</th>
+                                    <th>Quantity</th>
+                                    <th>Vendor Name</th>
+
+                                    <th style="text-align:center">Action</th> <!-- Action column for edit/delete buttons -->
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var data in Model.products_deatils)
+                                {
+                                    <tr>
+                                        <th scope="row">@data.Name</th>
+                                        <td>@data.Price</td>
+                                        <td>@data.Quantity</td>
+                                        <td>@data.vendors.vendor_name</td>
+                                        <td style="text-align:center;">
+
+                                            <button class="btn btn-primary p-2">
+                                                <a href="@Url.Action("product_Update","Products",new{id=data.Id})" style="color:white">Update</a>
+                                            </button>
+                                            <button class="btn btn-danger p-2">
+                                                <a href="@Url.Action("product_delete","Products",new{id=data.Id})" style="color:white">delete</a>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                        @if (TempData["error"] != null)
+                        {
+                            <h4 style="color:red;text-align:center;">@TempData["error"]</h4>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div />
+        </div>
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/Dashboard_layout.cshtml";
+}
+@if (TempData["successfully"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["successfully"]</h3>
+    </div>
+}<style>
+     .heading {
+         color: black;
+         font-size: 3rem;
+         font-weight: bold;
+         text-transform: uppercase;
+         /* text-shadow: 2px 2px 4px#d6111e;  */
+         text-align: center;
+         margin-top: 30px;
+         margin-bottom: 10px;
+     }
+
+     .underline {
+         height: 4px;
+         background-color: #d6111e;
+         width: 60%;
+         margin: 0 auto;
+     }</style>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">  Add  new Schemes</h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Package Name</label>
+                        <input name="schemesname" type="text" class="form-control" id="name" placeholder="Enter name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">count of packages</label>
+                        <input name="schemescount" type="text" class="form-control" id="email" placeholder="Enter count of packages" required>
+                    </div>
+
+                    <div class="form-group col-md-6">
+                        <label for="email">price</label>
+                        <input name="price" type="text" class="form-control" id="email" placeholder="Enter price" required>
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="email">percentage of discount</label>
+                    <input name="percentage" type="text" class="form-control" id="email" placeholder="Enter percentage of discount" required>
+                </div>
+        
+                    
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">Packages Despriction</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="schemesDes"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

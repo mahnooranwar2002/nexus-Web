@@ -1,0 +1,118 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/Dashboard_layout.cshtml";
+}
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    <h2 class="heading">
+                                        update Employee
+                                    </h2>
+                                    <div class="underline"></div>
+                                </div>
+                            </div>
+                        </div>
+            <form method="post">
+                <div class="form-row">
+                    <input type="hidden" value="@Model.empData.Id" name="Id">
+                    <input type="hidden" value="@Model.empData.Gender" name="Gender">
+                    <input type="hidden" value="@Model.empData.Position_id" name="position_id">
+                    <input type="hidden" value="@Model.empData.status" name="status">
+                    <input type="hidden" value="@Model.empData.status_update" name="status_update">
+                    <div class="form-group col-md-6">
+                        <label for="name">Name</label>
+                        <input name="Name" type="text" class="form-control" id="name" value="@Model.empData.Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">User name</label>
+                        <input name="user_name" type="text" class="form-control" id="email" value="@Model.empData.user_name"  required>
+                    </div>
+
+                    <div class="form-group col-md-6">
+                        <label for="email">Email</label>
+                        <input name="Email" type="email" class="form-control" id="email" value="@Model.empData.Email" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Phone</label>
+                        <input name="Phone" type="text" class="form-control" id="name" value="@Model.empData.Phone" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Password</label>
+                        <input name="User_password" type="text" class="form-control" id="email" value="@Model.empData.User_password"   required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Age</label>
+                        <input name="age" type="text" class="form-control" id="name" value="@Model.empData.age" required>
+                    </div>
+
+                </div>
+
+                <div class="form-row">
+
+                    <div class="form-group col-md-6">
+                        <label for="department">Gender</label>
+                        <select name="Gender" required class="form-control" id="department">
+                            <option hidden>Select gender</option>
+
+                            <option value="female">Female</option>
+                            <option value="male">Male</option>
+
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+
+                    <div class="form-group col-md-6">
+                        <label for="department">Designation</label>
+                        <select name="Position_id" required class="form-control" id="department">
+                            <option hidden>Select designation</option>
+                            @foreach (var get_des in Model.positionList)
+                            {
+                                <option value="@get_des.Id">@get_des.Name</option>
+                            }
+
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">Address</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="Address">@Model.empData.Address</textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+            <style>
+                .heading {
+                    color: black;
+                    font-size: 3rem;
+                    font-weight: bold;
+                    text-transform: uppercase;
+                    /* text-shadow: 2px 2px 4px#d6111e;  */
+                    text-align: center;
+                    margin-top: 30px;
+                    margin-bottom: 10px;
+                }
+
+                .underline {
+                    height: 4px;
+                    background-color: #d6111e;
+                    width: 60%;
+                    margin: 0 auto;
+                }</style>

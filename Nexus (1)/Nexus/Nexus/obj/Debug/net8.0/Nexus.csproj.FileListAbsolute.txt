@@ -1,0 +1,536 @@
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.staticwebassets.runtime.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.exe
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.deps.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.runtimeconfig.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.pdb
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.AssemblyReference.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfoInputs.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfo.cs
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CoreCompileInputs.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cs
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.Nexus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexus.props
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexus.props
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexus.props
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\scopedcss\bundle\Nexus.styles.css
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CopyComplete
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\refint\Nexus.dll
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.pdb
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.genruntimeconfig.cache
+C:\Users\ARComputers\Downloads\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\ref\Nexus.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.staticwebassets.runtime.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.exe
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.deps.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.runtimeconfig.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.pdb
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.AssemblyReference.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfoInputs.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfo.cs
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CoreCompileInputs.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cs
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.Nexus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexus.props
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexus.props
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexus.props
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\scopedcss\bundle\Nexus.styles.css
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.Up2Date
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\refint\Nexus.dll
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.pdb
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.genruntimeconfig.cache
+C:\Users\mustu\Videos\Nexus (1)\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\ref\Nexus.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.staticwebassets.runtime.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.exe
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.deps.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.runtimeconfig.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.pdb
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.AssemblyReference.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfoInputs.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfo.cs
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CoreCompileInputs.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cs
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.Nexus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexus.props
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexus.props
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexus.props
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\scopedcss\bundle\Nexus.styles.css
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.Up2Date
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\refint\Nexus.dll
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.pdb
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.genruntimeconfig.cache
+C:\Users\mustu\Videos\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\ref\Nexus.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.exe
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\appsettings.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.staticwebassets.runtime.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.deps.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.runtimeconfig.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Nexus.pdb
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.AssemblyReference.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfoInputs.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.AssemblyInfo.cs
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CoreCompileInputs.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.RazorAssemblyInfo.cs
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.Nexus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexus.props
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexus.props
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexus.props
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\scopedcss\bundle\Nexus.styles.css
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.csproj.CopyComplete
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\refint\Nexus.dll
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.pdb
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\Nexus.genruntimeconfig.cache
+C:\Users\ARComputers\Downloads\HDSE1\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\obj\Debug\net8.0\ref\Nexus.dll

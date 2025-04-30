@@ -1,0 +1,84 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuxes log in page </title>
+
+    <link rel="stylesheet" href="~/css/userlogin.css">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+
+</head>
+<body>
+    
+    <section class="login-box">
+        <div class="bg-overlay">
+            @if (ViewBag.message != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    <h4 style="text-align:center;">@ViewBag.message</h4>
+                </div>
+
+            }
+        </div>
+        <div class="container-fluid p-0">
+            
+            <div class="row g-0 align-items-center">
+                
+                <div class="col-lg-3">
+                    <div class="bg-white vh-100 d-flex align-items-center justify-content-center">
+                        <div class="log-box">
+                            <div class="text-center pb-4 mb-2">
+                                <img src="logo.png" alt="" height="45" style="margin-left: 25px;">
+                            </div>
+                            <div class="login-contents ">
+                                <h4 class="text-center">Login Account to <span>Nuxes</span></h4>
+                                <form method="post">
+                                    <div class="mb-3">
+                                        <input type="email" name="user_Em" class="form-control" id="email" placeholder="Email address" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <input type="password" name="user_Pass" class="form-control" id="password" placeholder="Password" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input">
+                                            <label class="form-check-label text-muted fw-bold" for="rememberMe">Remember me</label>
+                                        </div>
+                                    </div>
+                                    <input value="login" class="btn text-white shadow-none w-100 rounded-pill" style=" padding: 0.7rem 1.8rem;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.5s;
+    border-radius: 0px;
+    background-color: #d6111e;" type="submit">
+                                </form>
+                                <hr>
+                                <div class="text-center">
+                                    <p class="text-muted mb-0">Already have an account <a href="@Url.Action("user_Login","user")" class="fw-bold text-success">Log  In</a></p>
+                                    <p class="text-muted mb-0">new user? <a href="@Url.Action("user_register","user")" class="fw-bold text-success">Sign Up</a></p>
+                                    <p class="text-muted mb-0">login for <a href="@Url.Action("emp_loginform","employe")" class="fw-bold text-success">Employee</a></p>
+
+                                    <p class="text-muted mb-0">login for <a href="@Url.Action("admin_login","admin")" class="fw-bold text-success">Admin</a></p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- bootstrap -->
+    @*   <script src="js/bootstrap.bundle.min.js"></script> *@
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/technicalDashboard_layout.cshtml";
+}
+<style>
+    .pcard {
+        border: 2px solid red;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+        .pcard:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+
+    p {
+        font-size: 25px;
+    }
+
+    .pheader {
+        background: linear-gradient(45deg, #ff4b2b, #ff416c);
+        color: white;
+        padding: 20px;
+        font-size: 1.5em;
+        text-align: center;
+    }</style>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 "></div>
+        <div class="col-md-6 ">
+
+            <div class="pcard" style="margin-top:50px">
+                <div class="pheader">  <h1>Order</h1></div>
+                <div class="pdetails">
+                    <h5> Order ID : @Model.plansubdata.order_id </h5>
+                    <h6> Account ID : @Model.plansubdata.account_id</h6>
+
+                    <p> User Name : @Model.plansubdata.user_name </p>
+                    <p> user email : @Model.plansubdata.user_email  </p>
+                    <p> Number : @Model.plansubdata.user_number</p>
+                    <p>  Adddress : @Model.plansubdata.user_address</p>
+                    <h1 style="text-align:center;"> Connection plan info and bank info</h1>
+                    <p> plan Subscribe : @Model.plansubdata.plan_name</p>
+
+                    <p> charges : $ @Model.plansubdata.charges </p>
+                    <p> Status  : @Model.plansubdata.status_updates</p>
+                    <p> Status : @Model.plansubdata.GenerateBillstatus_update</p>
+                    <p> Payment of Mode : @Model.plansubdata.paymentofmode<p>
+
+                    <p> Pin Code : @Model.plansubdata.pincode<p>
+                    <p> Payment : @Model.plansubdata.payment<p>
+                    <p> status of provided : @Model.plansubdata.FeasibilityStatus<p>
+                    <p> Task Date : @Model.plansubdata.date<p>
+
+
+
+                        <button class="btn">
+                            <a style="color:white;" href="@Url.Action("planSubcribed_details","technical")"> Back to list</a>
+                        </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 "></div>
+    </div>
+</div>

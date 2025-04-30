@@ -1,0 +1,117 @@
+﻿@{
+    Layout = "../shared/Dashboard_layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-admin-line card-icon"></i>
+                    <h5 class="card-title">Total Admin</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["count_admin"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-user-line card-icon"></i>
+                    <h5 class="card-title">Total Users</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["count_user"]</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-3">
+            <div class="card ">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-shopping-bag-line card-icon"></i>
+                    <h5 class="card-title">Total Reatil Shop</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["retailstore_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-product-hunt-line card-icon"></i>
+                    <h5 class="card-title">Total Products</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["product_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-id-card-line card-icon"></i>
+                    <h5 class="card-title">Total Employee</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["count_emp"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-store-3-line card-icon"></i>
+                    <h5 class="card-title">Total Vendors</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["vendor_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-open-arm-line card-icon"></i>
+                    <h5 class="card-title">Total Schemes</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["package_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-router-line card-icon"></i>
+                    <h5 class="card-title">Total Connections</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["plan_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-feedback-fill card-icon"></i>
+                    <h5 class="card-title">Total Feedbacks</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["feedbac_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-link-unlink-m card-icon"></i>
+                    <h5 class="card-title">Total Scheme Subcribed</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["schemessub_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-router-line card-icon"></i>
+                    <h5 class="card-title">Total Connection Subcribed</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["plansub_count"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body card-bodies text-center">
+                    <i class="ri-customer-service-2-fill card-icon"></i>
+                    <h5 class="card-title">Total Faq</h5>
+                    <p class="card-text" style="color:white;font-size:1.5rem;">@TempData["faq_count"]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

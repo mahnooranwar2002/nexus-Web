@@ -1,0 +1,65 @@
+﻿Nexus.Models.mainmodel
+
+@{
+    Layout = "../shared/technicalDashboard_layout.cshtml";
+}
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["msg"]</h3>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <h2>Plan Form</h2>
+            <form method="post">
+                <div class="form-row">
+                    <input type="hidden" value="@Model.planData.Id" name="Id">
+
+
+                    <input type="hidden" value="@Model.planData.status" name="status">
+                    <input type="hidden" value="@Model.planData.status_update" name="status_update">
+                    <input type="text" value="@Model.planData.Type" name="Type">
+                    <div class="form-group col-md-6">
+                        <label for="name">Name</label>
+                        <input name="name" type="text" class="form-control" id="name" value="@Model.planData.Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="name">Connection Type</label>
+                        <input readonly name="Type" type="text" class="form-control" id="name" value="@Model.planData.Type" required>
+                    </div>
+
+
+                    @* <div class="form-group col-md-6">
+                        <label for="department">Type</label>
+                        <select  class="form-control" id="department" required>
+                            <option hidden>Select connection type</option>
+                            <option name="Type" value="Dial-Up">Dial-Up</option>
+                            <option ame="Type" value="Broadband">Broadband</option>
+                            <option ame="Type" value="Landline">Landline</option>
+                        </select>
+                    </div> *@
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">Charges</label>
+                        <input type="text" name="charges" class="form-control" id="jobTitle" value="@Model.planData.Charges" required>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">Description</label>
+                        <input type="text" name="Description" class="form-control" id="jobTitle" value="@Model.planData.Description" required>
+                    </div>
+
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

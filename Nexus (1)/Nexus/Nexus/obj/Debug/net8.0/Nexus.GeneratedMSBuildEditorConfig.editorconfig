@@ -1,0 +1,491 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Nexus
+build_property.RootNamespace = Nexus
+build_property.ProjectDir = C:\Users\ARComputers\Desktop\Apteach\FINAL-EPROJECT-nexus\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ARComputers\Desktop\Apteach\FINAL-EPROJECT-nexus\FINAL-EPROJECT-nexus\FINAL-EPROJECT\Nexus (1)\Nexus\Nexus
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/bill_generated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcYmlsbF9nZW5lcmF0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/bill_generatedschemes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcYmlsbF9nZW5lcmF0ZWRzY2hlbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/empUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcZW1wVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/emp_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcZW1wX2RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/plansub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNccGxhbnN1Yl9kYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/schemessub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcc2NoZW1lc3N1Yl9kYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/schemes_bill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcc2NoZW1lc19iaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/accounts/SubscribedPLan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcU3Vic2NyaWJlZFBMYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/add_admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkX2FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/admindetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRtaW5kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/admin_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRtaW5fbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/admin_record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRtaW5fcmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/admin_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRtaW5fVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/contactFetch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cY29udGFjdEZldGNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/faqinsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZmFxaW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/fetchfaq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZmV0Y2hmYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/fetch_feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZmV0Y2hfZmVlZGJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/mypage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cbXlwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/plansuboutlet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5ccGxhbnN1Ym91dGxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/schmesoutlet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cc2NobWVzb3V0bGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/update_faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdXBkYXRlX2ZhcS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/admin/user_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdXNlcl9kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/add_Employee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxhZGRfRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/emplyomee_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxlbXBseW9tZWVfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/emp_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxlbXBfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/emp_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxlbXBfbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/emp_loginform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxlbXBfbG9naW5mb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/employe/emp_updates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZVxlbXBfdXBkYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/plans/add_plans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGxhbnNcYWRkX3BsYW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/plans/details_plans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGxhbnNcZGV0YWlsc19wbGFucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/plans/planSubcribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGxhbnNccGxhblN1YmNyaWJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/plans/plansub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGxhbnNccGxhbnN1Yl9kYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/plans/plan_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGxhbnNccGxhbl91cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/position/add_position.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25cYWRkX3Bvc2l0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/position/position_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25ccG9zaXRpb25fZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/position/update_position.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25cdXBkYXRlX3Bvc2l0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Products/add_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcYWRkX3Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Products/product_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNccHJvZHVjdF9kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Products/product_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNccHJvZHVjdF9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/RetailShop/add_retailShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0YWlsU2hvcFxhZGRfcmV0YWlsU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/RetailShop/details_Retailshop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0YWlsU2hvcFxkZXRhaWxzX1JldGFpbHNob3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/RetailShop/retailstore_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0YWlsU2hvcFxyZXRhaWxzdG9yZV91cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/add_schemes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xhZGRfc2NoZW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/schemeSubcribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xzY2hlbWVTdWJjcmliZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/schemesub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xzY2hlbWVzdWJfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/schemes_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xzY2hlbWVzX2RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/schemes_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xzY2hlbWVzX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/schemes/schemes_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2NoZW1lc1xzY2hlbWVzX3VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/AccountDashboard_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFjY291bnREYXNoYm9hcmRfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/Dashboard_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/technicalDashboard_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHRlY2huaWNhbERhc2hib2FyZF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/Website_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFdlYnNpdGVfTGF5b3V0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Shared/workerDashboard_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHdvcmtlckRhc2hib2FyZF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/add_plans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXGFkZF9wbGFucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/add_product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXGFkZF9wcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/add_schemes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXGFkZF9zY2hlbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/empUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXGVtcFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/planDeatils.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5EZWF0aWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/plandetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/planSubcribed_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5TdWJjcmliZWRfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/plansub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5zdWJfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/plans_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5zX3VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/plans_updates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHBsYW5zX3VwZGF0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/productDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHByb2R1Y3REZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/product_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHByb2R1Y3RfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/product_Updates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHByb2R1Y3RfVXBkYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/schemesSubdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHNjaGVtZXNTdWJkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/schemesub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHNjaGVtZXN1Yl9kYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/schemes_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHNjaGVtZXNfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/schemes_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHNjaGVtZXNfdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/technical/schmesDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVjaG5pY2FsXHNjaG1lc0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/User/user_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyX2xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/User/user_register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx1c2VyX3JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/vendors/add_vendors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmVuZG9yc1xhZGRfdmVuZG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/vendors/vendors_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmVuZG9yc1x2ZW5kb3JzX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/vendors/vendor_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmVuZG9yc1x2ZW5kb3JfVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/details_plans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxkZXRhaWxzX3BsYW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxmYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxmZWVkYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/packages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwYWNrYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/packagesbcribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwYWNrYWdlc2JjcmliZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/placeorderplan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFjZW9yZGVycGxhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plansubcribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFuc3ViY3JpYmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plansubdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFuc3ViZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plans_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFuc191cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plans_updates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFuc191cGRhdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/plan_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxwbGFuX3VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/trackyourplan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVx0cmFja3lvdXJwbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/trackyourschemes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVx0cmFja3lvdXJzY2hlbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVx1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/userprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVx1c2VycHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/Website/waitedpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVx3YWl0ZWRwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/empupdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xlbXB1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/planbooked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xwbGFuYm9va2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/planbookedDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xwbGFuYm9va2VkRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/planDeatils.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xwbGFuRGVhdGlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/plansub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xwbGFuc3ViX2RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/schemesbooked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xzY2hlbWVzYm9va2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/schemesbookedDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xzY2hlbWVzYm9va2VkRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/schemessubdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xzY2hlbWVzc3ViZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/schemessubweb_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xzY2hlbWVzc3Vid2ViX2RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/schemesub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1xzY2hlbWVzdWJfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/webschemesub_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1x3ZWJzY2hlbWVzdWJfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/workers/wesbiteSchemedetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya2Vyc1x3ZXNiaXRlU2NoZW1lZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARComputers/Desktop/Apteach/FINAL-EPROJECT-nexus/FINAL-EPROJECT-nexus/FINAL-EPROJECT/Nexus (1)/Nexus/Nexus/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

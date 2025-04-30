@@ -1,0 +1,98 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/workerDashboard_layout.cshtml";
+}
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>
+<div class="container" style="height:auto;">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <form class="form-inline" autocomplete="off">
+                <div class="input-group">
+                    <input type="text" name="txtsearch" class="form-control rounded-pill search-input" placeholder="Search user by Name..." aria-label="Search" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-danger rounded-pill search-btn" type="submit" id="button-addon2">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="content">
+                <div class="container">
+                    
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <h2 class="heading">
+                                    Schemes Subscribed BY outlet record List
+                                </h2>
+                                <div class="underline"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Table to display employees -->
+                    <div class="table-responsive">
+                        <table id="employeeTable" class="table table-hover">
+                            <thead>
+                                <tr>
+                                 
+
+                                    <th>User Name</th>
+                                    <th>User Email</th>
+                                    <th>Product</th>
+                                    <th>Scheme</th>
+                                    <th>Address</th>
+
+                                    <!-- Action column for edit/delete buttons -->
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var data in Model.schemesBook)
+                                {
+                                    <tr>
+                                        <th scope="row">@data.Name</th>
+                                        <th scope="row">@data.Email</th>
+                                        <th scope="row">@data.Product_ID</th>
+                                        <th scope="row">@data.Scheme_Id</th>
+
+                                        <th scope="row">
+                                         
+                                            @data.Address
+                                        </th>
+
+
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                        @if (TempData["error"] != null)
+                        {
+                            <h4 style="color:red;text-align:center;">@TempData["error"]</h4>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div />
+        </div>
+    </div>
+</div>
+

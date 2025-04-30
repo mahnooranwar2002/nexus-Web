@@ -1,0 +1,70 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/Dashboard_layout.cshtml";
+}
+@if (TempData["successfully"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["successfully"]</h3>
+    </div>
+}<style>
+     .heading {
+         color: black;
+         font-size: 3rem;
+         font-weight: bold;
+         text-transform: uppercase;
+         /* text-shadow: 2px 2px 4px#d6111e;  */
+         text-align: center;
+         margin-top: 30px;
+         margin-bottom: 10px;
+     }
+
+     .underline {
+         height: 4px;
+         background-color: #d6111e;
+         width: 60%;
+         margin: 0 auto;
+     }</style>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">
+                            add new Vendor
+                        </h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name"> Vendor Name</label>
+                        <input name="vendor_name" type="text" class="form-control" id="name" placeholder="Enter name" required>
+                    </div>
+                    
+
+                    <div class="form-group col-md-6">
+                        <label for="email"> Vendor Email</label>
+                        <input name="vendor_email" type="email" class="form-control" id="email" placeholder="Enter email" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name"> Vendor Contact</label>
+                        <input name="vendor_number" type="text" class="form-control" id="name" placeholder="Enter phone" required>
+                    </div>
+                    
+                </div>
+                
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,238 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] ACCOUNTANT </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NEXUS_SERVICE_MARKETING_SYSTEM.styles.css" asp-append-version="true" />
+    <!-- Fonts and icons -->
+    <script src="~/dashboard/assets/js/plugin/webfont/webfont.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+          rel="stylesheet" />
+    <script>
+        WebFont.load({
+            google: { families: ["Public Sans:300,400,500,600,700"] },
+            custom: {
+                families: [
+                    "Font Awesome 5 Solid",
+                    "Font Awesome 5 Regular",
+                    "Font Awesome 5 Brands",
+                    "simple-line-icons",
+                ],
+                urls: ["assets/css/fonts.min.css"],
+            },
+            active: function () {
+                sessionStorage.fonts = true;
+            },
+        });
+    </script>
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="~/dashboard/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/dashboard/assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="~/dashboard/assets/css/kaiadmin.min.css" />
+    <link rel="stylesheet" href="~/dashboard/assets/css/form.css">
+    <link rel="stylesheet" href="~/dashboard/assets/css/demo.css">
+    <style>
+        .heading {
+            color: black;
+            font-size: 3rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            /* text-shadow: 2px 2px 4px#d6111e;  */
+            text-align: center;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }</style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <div class="sidebar" style="background-color: white;">
+            <div class="sidebar-logo">
+                <!-- Logo Header -->
+                <div class="logo-header" style="background-color: #d6111e;">
+                    <a href="@Url.Action("index","accounts")" class="logo" style="color: aliceblue; font-size: 35px;">
+                        Nuxes
+                    </a>
+                    <div class="nav-toggle">
+                        <button class="btn btn-toggle toggle-sidebar">
+                            <i class="gg-menu-right"></i>
+                        </button>
+                        <button class="btn btn-toggle sidenav-toggler">
+                            <i class="gg-menu-left"></i>
+                        </button>
+                    </div>
+                    <button class="topbar-toggler more">
+                        <i class="gg-more-vertical-alt"></i>
+                    </button>
+                </div>
+                <!-- End Logo Header -->
+            </div>
+            <div class="sidebar-wrapper scrollbar scrollbar-inner">
+                <div class="sidebar-content">
+                    <ul class="nav nav-secondary">
+                        <li class="nav-item">
+                            <a class="abc" href="@Url.Action("index","accounts")" style="font-size:medium;">
+                                Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a data-bs-toggle="collapse" href="#employeeInfo" role="button" aria-expanded="false" aria-controls="employeeInfo">
+                                <i class="ri-notification-3-line"></i>
+                                Connection Subscribe Info
+                                <span class="caret"></span>
+                            </a>
+                            <div class="collapse" id="employeeInfo">
+                                <ul class="nav nav-collapse">
+                                    
+                                    <li>
+                                        <a href="@Url.Action("SubscribedPLan","accounts")">
+                                            <span class="sub-item">List</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a data-bs-toggle="collapse" href="#Info" role="button" aria-expanded="false" aria-controls="employeeInfo">
+                                <i class="ri-notification-3-line"></i>
+                                schemes Subscribe Info
+                                <span class="caret"></span>
+                            </a>
+                            <div class="collapse" id="Info">
+                                <ul class="nav nav-collapse">
+
+                                    <li>
+                                        <a href="@Url.Action("schemes_bill","accounts")">
+                                            <span class="sub-item">List</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        </li>
+                        <button class="btn btn-modern btn-danger" style="margin-left:75px">
+                            <a style="color:white;" href=" @Url.Action("logout", "employe")"> <i class="ri-logout-box-line"></i> logout</a>
+                        </button>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- End Sidebar -->
+        <!-- Main Panel -->
+        <div class="main-panel">
+            <!-- Main Header -->
+            <!-- Main Header -->
+            <div class="main-header">
+                <div class="main-header-logo">
+                    <!-- Logo Header -->
+                    <div class="logo-header">
+                        <a  class="logo">
+                            Nexus
+                        </a>
+                        <div class="nav-toggle">
+                            <button class="btn btn-toggle toggle-sidebar">
+                                <i class="gg-menu-right"></i>
+                            </button>
+                            <button class="btn btn-toggle sidenav-toggler">
+                                <i class="gg-menu-left"></i>
+                            </button>
+                        </div>
+                        <button class="topbar-toggler more">
+                            <i class="gg-more-vertical-alt"></i>
+                        </button>
+                    </div>
+                    <!-- End Logo Header -->
+                </div>
+                <!-- Navbar Header -->
+                <nav class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom">
+                    <div class="container-fluid">
+                        <h3 class="navbar-brand mb-0 heading">Accountant Panel</h3>
+                        <ul class="navbar-nav topbar-nav ms-md-auto align-items-center">
+                            <!-- Profile Dropdown -->
+                            <li class="nav-item topbar-user dropdown hidden-caret" style="color:white;background-color:#d6111e">
+                                <a class="dropdown-toggle profile-pic" data-bs-toggle="dropdown" href="#" aria-expanded="false">
+
+                                    <span class="profile-username" style="color:white;">
+                                        <span class="op-7">Welcome,</span>
+                                        @foreach (var data in Model.empdetails)
+                                        {
+                                            <span class="fw-bold"> @data.user_name </span>
+                                        }
+
+                                    </span>
+                                </a>
+                                <ul class="dropdown-menu dropdown-user animated fadeIn">
+                                    <div class="dropdown-user-scroll scrollbar-outer">
+                                    <li>
+                                        <div class="user-box">
+
+
+                                            <div class="u-text">
+                                                    @foreach (var data in Model.empdetails)
+                                                    {
+                                                    <h4> @data.Name </h4>
+                                                    <p class="text-muted">
+                                                            @data.Email
+                                                    </p>
+
+
+                                                    <a href="@Url.Action("empUpdate","accounts",new{id=data.Id})"
+                                                       class="btn btn-xs btn-secondary btn-sm" style="background:#d6111e;">View Profile</a>
+                                                    }
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item btn btn-danger"
+                                           style="color:white;width:50%;margin-left:65px;text-align:center;
+" href="@Url.Action("logout","employe")" id="logoutadmin">Logout</a>
+                                    </li>
+                    </div>
+                    </ul>
+                    </li>
+                    </ul>
+            </div>
+            </nav>
+            <!-- End Navbar Header -->
+        </div>
+        <!-- End Main Header -->
+        <!-- End Main Header -->
+        <!-- Content -->
+        <div class="container">
+
+            <!-- Main Content -->
+            <div class="page-inner">
+                    @RenderBody()
+            </div>
+            <!-- End Main Content -->
+        </div>
+   
+        <!-- End Content -->
+    </div>
+    <!-- End Main Panel -->
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/dashboard/assets/js/core/jquery-3.7.1.min.js"></script>
+    <script src="~/dashboard/assets/js/core/popper.min.js"></script>
+    <script src="~/dashboard/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/dashboard/assets/js/plugin/chart-circle/circles.min.js"></script>
+    <script src="~/dashboard/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script>
+    <script src="~/dashboard/assets/js/demo.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
+

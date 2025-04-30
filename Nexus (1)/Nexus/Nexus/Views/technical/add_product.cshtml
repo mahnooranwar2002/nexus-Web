@@ -1,0 +1,85 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/technicalDashboard_layout.cshtml";
+}
+
+
+@if (TempData["successfully"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["successfully"]</h3>
+    </div>
+}<style>
+     .heading {
+         color: black;
+         font-size: 3rem;
+         font-weight: bold;
+         text-transform: uppercase;
+         /* text-shadow: 2px 2px 4px#d6111e;  */
+         text-align: center;
+         margin-top: 30px;
+         margin-bottom: 10px;
+     }
+
+     .underline {
+         height: 4px;
+         background-color: #d6111e;
+         width: 60%;
+         margin: 0 auto;
+     }</style>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">
+                           Add product
+
+
+                        </h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+
+                        <label for="name">Name</label>
+                        <input name="Name" type="text" class="form-control" id="email" placeholder="Enter Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Price</label>
+                        <input name="Price" type="text" class="form-control" id="email" placeholder="Enter Price" required>
+                    </div>
+                </div>
+
+
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">Quantity</label>
+                        <input name="Quantity" type="text" class="form-control" id="password" placeholder="Enter Quantity" required>
+                    </div>
+
+                </div>
+                <div class="form-row">
+
+                    <div class="form-group col-md-6">
+                        <label for="department">vendor</label>
+                        <select name="Vendor_Id" required class="form-control" id="department">
+                            <option hidden>Select vendor</option>
+                            @foreach (var get_ven in Model.vendordetails)
+                            {
+                                <option value="@get_ven.id">@get_ven.vendor_name</option>
+                            }
+
+                        </select>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-modern btn-danger">Add new Product</button>
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>

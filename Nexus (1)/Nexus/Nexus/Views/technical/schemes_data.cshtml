@@ -1,0 +1,65 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/technicalDashboard_layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 "></div>
+        <div class="col-md-6 ">
+
+            <div class="pcard" style="margin-top:50px">
+
+                <div class="pdetails">
+                    <div class="pheader">  <h1>Schemes Data</h1></div>
+                    <h5>  Name: @Model.schemedata.schemesname </h5>
+
+                    <p> Quantity of packages:@Model.schemedata.schemescount</p>
+                    <p> Percentage of DISCOUNT:@Model.schemedata.percentage</p>
+                    <p> DISCOUNT:@Model.schemedata.discount</p>
+
+                    <h6 style="font-weight:900">Despriton:</h6>
+                    <p>@Model.schemedata.schemesDes</p>
+
+                    <p class="price">Price : @Model.schemedata.price $</p>
+                    <button class="btn">
+                        <a style="color:white;" href="@Url.Action("schmesDetails","technical")
+                   ">back to list<a>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-3 "></div>
+</div>
+
+
+
+<style>
+    .pcard {
+        border: 2px solid red;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+        .pcard:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+
+    p {
+        font-size: 25px;
+    }
+
+    .pheader {
+        background: linear-gradient(45deg, #ff4b2b, #ff416c);
+        color: white;
+        padding: 20px;
+        font-size: 1.5em;
+        text-align: center;
+    }</style>
+

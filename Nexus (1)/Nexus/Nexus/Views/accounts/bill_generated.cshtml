@@ -1,0 +1,146 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/AccountDashboard_layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+          
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading"">BILL GENERATE</h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post" id="dateForm">
+                <div class="form-row">
+                    <input type="hidden" value="@Model.plansubdata.addtocartid" name="addtocartid">
+                    <input type="hidden" value="@Model.plansubdata.GenerateBillstatus_update" name="GenerateBillstatus_update">
+                    <input type="hidden" value="@Model.plansubdata.paymentofmode" name="paymentofmode">
+                    <input type="hidden" value="@Model.plansubdata.pincode" name="pincode">
+                    <input type="hidden" value="@Model.plansubdata.status_updates" name="status_updates">
+                    <input type="hidden" value="@Model.plansubdata.status" name="status">
+                    <input type="hidden"  value="@Model.plansubdata.payment" name="payment">
+                    <input type="hidden" value="@Model.plansubdata.FeasibilityStatus" name="FeasibilityStatus">
+                    <input type="hidden" value="@Model.plansubdata.products_id" name="products_id">
+                    
+                    <input type="hidden" value="@Model.plansubdata.account_id" name="account_id">
+                    <input type="hidden" value="@Model.plansubdata.charges" name="charges">
+                    <div class="form-group col-md-6">
+                        <label for="email">Order ID</label>
+                        <input readonly name="order_id" type="text" class="form-control" id="email" value="@Model.plansubdata.order_id" required>
+                    </div>
+
+                    <div class="form-group col-md-6">
+                        <label for="name">Name</label>
+                        <input readonly name="user_name" type="text" class="form-control" id="name" value="@Model.plansubdata.user_name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Email</label>
+                        <input readonly name="user_email" type="text" class="form-control" id="email" value="@Model.plansubdata.user_email" required>
+                    </div>
+
+                    <div class="form-group col-md-6">
+                        <label for="email">User Number</label>
+                        <input readonly name="user_number" type="text" id="phone" name="phone" pattern="\d{10}" required title="Phone number must be 10 digits" class="form-control" id="email" value="@Model.plansubdata.user_number" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Booked Date and Time</label>
+                        <input readonly name="ordered_date" type="text" class="form-control" id="email" value="@Model.plansubdata.ordered_date" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">Address</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="user_address">@Model.plansubdata.user_address</textarea>
+                        </div>
+                    </div>
+                    <h2 style="text-align:center;">Plan Info</h2>
+                    <div class="form-group col-md-6">
+                        <label for="email">Plan Name</label>
+                        <input readonly name="plan_name" type="text" class="form-control" id="email" value="@Model.plansubdata.plan_name" required>
+                    </div>
+                </div>
+               @*  <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Charges</label>
+                        <input readonly name="charges" type="text" class="form-control" id="name" value="@Model.plansubdata.charges" required>
+                    </div>
+                </div> *@
+               
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="department">Status</label>
+                        <input name="GenerateBillstatus" readonly type="hidden" class="form-control" value="1" placeholder="approved" required>
+                        <input readonly type="text" class="form-control"  placeholder="approved" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Date</label>
+                        <input name="date" type="date" class="form-control" id="dateInput" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Contact</label>
+                        <input name="contact" type="text" class="form-control" id="name" value="@Model.plansubdata.contact" required>
+                    </div>
+                </div>
+                <p style="color:red"> 
+                    <b>TOTAL</b> : $ @Model.plansubdata.charges  
+                    </p>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Generate Bill</button>
+                </div>
+                <p id="message"></p>
+            </form>
+        </div>
+    </div>
+</div>
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const dateInput = document.getElementById('dateInput');
+        const today = new Date().toISOString().split('T')[0];
+        dateInput.min = today;
+    });
+
+    document.getElementById('dateForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+        const dateInput = document.getElementById('dateInput').value;
+        const message = document.getElementById('message');
+        const today = new Date().toISOString().split('T')[0];
+
+        if (dateInput >= today) {
+            message.textContent = '';
+            message.style.color = 'green';
+
+            this.submit();
+        } else {
+            message.textContent = 'Invalid date. Please select a current or future date.';
+            message.style.color = 'red';
+        }
+    });
+</script>

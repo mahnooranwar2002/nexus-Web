@@ -1,0 +1,100 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/workerDashboard_layout.cshtml";
+}
+@if (TempData["successfully"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["successfully"]</h3>
+    </div>
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">Add schemes Booking</h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+
+                        <label for="name">Name</label>
+                        <input name="Name" type="text" class="form-control" id="email" placeholder="Enter Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Email</label>
+                        <input name="Email" type="email" class="form-control" id="email" placeholder="Enter Email" required>
+                    </div>
+                </div>
+
+
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="jobTitle">contact</label>
+                        <input name="Phone" type="text" class="form-control" id="password" placeholder="Enter Contact" required>
+                    </div>
+
+                </div>
+                <div class="form-row">
+
+                    <div class="form-group col-md-6">
+                        <label for="department">Schemes</label>
+                        <select name="Scheme_Id" required class="form-control" id="department">
+                            <option hidden>Select scheme</option>
+                            @foreach (var get_shcemes in Model.schemedetails)
+                            {
+                                <option value="@get_shcemes.id">@get_shcemes.schemesname</option>
+                            }
+
+                        </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="department">product</label>
+                        <select name="Product_ID" required class="form-control" id="departments">
+                            <option hidden>Select product</option>
+                            @foreach (var get_product in Model.products_deatils)
+                            {
+                                <option value="@get_product.Id">@get_product.Name</option>
+                            }
+
+                        </select>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="jobTitle">address</label>
+                            <input name="Address" type="text" class="form-control" id="password" placeholder="Enter Address" required>
+                        </div>
+
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-modern btn-danger">Booked Now</button>
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>

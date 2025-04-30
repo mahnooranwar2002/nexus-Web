@@ -1,0 +1,15 @@
+﻿Nexus.Models.mainmodel
+@{
+    Layout = null;
+}
+
+<form method="post">
+    <input name="cart_id" value="@Model.cartdata.cart_id" type="hidden">
+    <input name="plan_id" value="@Model.cartdata.plan_id" type="hidden">
+    <input name="user_id" value="@Model.cartdata.user_id" type="hidden">
+    <br><br>
+    <input name="planName" value="@Model.cartdata.planName" type="text" readonly><br><br>
+    <input name="price" value="@Model.cartdata.price" type="text" readonly><br><br>
+    <input name="quantity" value="@Model.cartdata.quantity" type="text"><br><br>
+    <button type="submit">update</button>
+</form>

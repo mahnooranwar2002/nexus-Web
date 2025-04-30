@@ -1,0 +1,77 @@
+﻿@model Nexus.Models.mainmodel
+@{
+  Layout = "../shared/workerDashboard_layout.cshtml";
+}
+<div class="container" style="height:auto;">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <form class="form-inline" autocomplete="off">
+                <div class="input-group">
+                    <input type="text" name="txtsearch" class="form-control rounded-pill search-input" placeholder="Search user by Oder_id or  Name..." aria-label="Search" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-danger rounded-pill search-btn" type="submit" id="button-addon2">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="content">
+                <div class="container">
+                    <h2 class="mb-4">connection Schemes Subcribed Record List</h2>
+
+                    <!-- Table to display employees -->
+                    <div class="table-responsive">
+                        <table id="employeeTable" class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Order ID</th>
+                                    <th>User Name</th>
+                                    <th>Product </th>
+                                    <th>Status</th>
+                                    <th>invoice</th>
+
+
+
+                                    <th style="text-align:center">Action</th> <!-- Action column for edit/delete buttons -->
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var plan_data in Model.schemesubcribedteails)
+                                {
+                                    <tr>
+                                        <th scope="row">@plan_data.order_id</th>
+                                        <th scope="row">@plan_data.user_name</th>
+                                        <th scope="row">@plan_data.product_id</th>
+                                        <th scope="row">@plan_data.status_updates</th>
+
+                                        <th scope="row">@plan_data.GenerateBillstatus_update</th>
+
+
+
+
+                                        <td style="text-align:center;">
+
+
+                                            <button class="btn btn-warning p-2">
+                                                <a href="@Url.Action("schemessubweb_data","workers",new{id=plan_data.addtocartid})" style="color:white">Details</a>
+                                            </button>
+                                          
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                        @if (TempData["error"] != null)
+                        {
+                            <h4 style="color:red;text-align:center;">@TempData["error"]</h4>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div />
+        </div>
+    </div>
+</div>

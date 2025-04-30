@@ -1,0 +1,150 @@
+﻿     <!--<< Breadcrumb Section Start >>-->
+<style>
+    .input-group {
+        box-shadow: 0 2px 5px#0e0d0d;
+    }
+
+    .btn-primary {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    #btnSubmit {
+        background-color: #d6111eee;
+        color: white;
+    }
+
+        #btnSubmit:hover {
+            background-color: #d6111e;
+            color: white;
+        }
+
+    .form-control:focus {
+        border-color: #d6111e;
+        box-shadow: none;
+    }
+
+
+    .btn:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }
+</style>
+<div class="breadcrumb-wrapper section-padding bg-cover" style="background-image: url('/assets/img/brand/breadcrumb (1).jpg');">
+    <div class="container">
+        <div class="page-heading">
+            <h1 class="wow fadeInUp" data-wow-delay=".3s">our schemes Plans</h1>
+            <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
+                <li>
+                    <a href="@Url.Action("Index","website")">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <i class="fal fa-minus"></i>
+                </li>
+                <li>
+                    packages schemes Plans
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2 class="heading">OUR PACKAGES SCHEMES PLAN</h2>
+            <div class="underline"></div>
+        </div>
+    </div>
+</div>
+  
+
+    @* <div class="row">
+    <div class="col-12 mb-4">
+    <form class="form-inline" autocomplete="off">
+    <div class="input-group">
+    <input type="text" name="txtsearch" class="form-control rounded-pill search-input" placeholder="Search plan by type..." aria-label="Search" aria-describedby="button-addon2">
+    <button class="btn btn-outline-danger rounded-pill search-btn" type="submit" id="button-addon2">Search</button>
+    </div>
+    </form>
+    </div>
+    </div> *@
+    
+
+    
+
+    
+<section class="pricing-section fix">
+    <div class="container custom-container-2">
+        <div class="section-title text-center">
+            <span class="wow fadeInUp">Pricing Plan</span>
+            <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">Choose Your Internet <br>Pack By Speed</h2>
+        </div>
+        <div class="row">
+             @foreach (var schemes_data in Model.schemedetails)
+        {
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                <div class="pricing-card-items">
+                    <div class="pricing-header">
+                            <h2>@schemes_data.schemesname</h2>
+                       
+                    </div>
+                    <ul class="icon-items">
+                        <li>
+                            <i class="flaticon-connection"></i>
+                        </li>
+                    </ul>
+                    <ul class="price-list">
+                        <li>
+                            <i class="far fa-check"></i>
+                                 package avaiable <b> @schemes_data.schemescount</b>
+                        </li>
+                           
+
+                            <li>
+                                <i class="far fa-check"></i>
+                                 price $ <b>@schemes_data.price</b> 
+                            </li>
+                            <li>
+                                <i class="far fa-check"></i>
+                                markdown <b> @schemes_data.percentage</b> %
+                            <li>
+                                <i class="far fa-check"></i>
+                                 Discount $ <b> @schemes_data.discount</b> 
+                            </li>
+                            <li>
+                                <p> @schemes_data.schemesDes</p>
+                            </li>
+
+                    </ul>
+                   
+                        <a href="@Url.Action("packagesbcribed", "website", new { id =schemes_data.id })" class="theme-btn"><span>Get started</span></a>
+                </div>
+            </div>
+           
+        }
+            </div>
+        </div>
+    </div>
+</section>

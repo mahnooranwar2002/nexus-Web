@@ -1,0 +1,74 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = Layout = "../shared/Dashboard_layout.cshtml";
+}
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h3>@TempData["msg"]</h3>
+    </div>
+}
+<style>
+    .heading {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        /* text-shadow: 2px 2px 4px#d6111e;  */
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .underline {
+        height: 4px;
+        background-color: #d6111e;
+        width: 60%;
+        margin: 0 auto;
+    }</style>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h2 class="heading">
+                            Schemes Subscribed Record List
+                        </h2>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+            </div>
+            <form method="post">
+                <div class="form-row">
+                    <input type="hidden" name="id" value="@Model.faqdata.id">
+                    <div class="form-group col-md-6">
+                        <label for="name">Subject</label>
+                        <input name="faq_sub" type="text" class="form-control" id="name" value="@Model.faqdata.faq_sub" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">FAQ QUESTION</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="faq_ques">@Model.faqdata.faq_ques</textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">FAQ ANSWER</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="faq_ans">@Model.faqdata.faq_ans</textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-modern btn-danger">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

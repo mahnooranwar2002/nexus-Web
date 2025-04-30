@@ -1,0 +1,43 @@
+﻿@model Nexus.Models.mainmodel
+@{
+    Layout = "../shared/workerDashboard_layout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 "></div>
+        <div class="col-md-6 ">
+
+            <div class="pcard" style="margin-top:150px">
+
+                <div class="pdetails">
+                    <h5> Order ID: @Model.subcribeddata.order_id </h5>
+                    <h6> Account ID : @Model.subcribeddata.account_id</h6>
+                    <p> User Name: @Model.subcribeddata.user_name </p>
+                    <p> user email:@Model.subcribeddata.user_email  </p>
+                    <p> Number:@Model.subcribeddata.user_number<p>
+                    <p> Subcribed Date & Time : @Model.subcribeddata.GetDate<p>
+                    <p> Number:@Model.subcribeddata.GetDate<p>
+
+                    <p>  Adddress :@Model.subcribeddata.user_address<p>
+                        <h5 style="text-align:center;"> plan info and bank info</h5>
+                    <p> plan Subscribe : @Model.subcribeddata.plan_name<p>
+
+                    <p> charges :$ @Model.subcribeddata.charges </p>
+                    <p>Task date :@Model.subcribeddata.date</p>
+                    <p> Status :@Model.subcribeddata.status_updates</p>
+                    <p> Status :@Model.subcribeddata.GenerateBillstatus_update</p>
+                    <p> Payment of Mode: @Model.subcribeddata.paymentofmode</p>
+
+                    <p> Pin Code: @Model.subcribeddata.pincode</p>
+
+                    <button class="btn">
+                        <a style="color:white;" href="@Url.Action("schemeSubcribed","schemes")"> Back to list</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 "></div>
+    </div>
+</div>
+
+
